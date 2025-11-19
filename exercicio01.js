@@ -27,7 +27,7 @@ else{
 
 let username = prompt("Digite o seu usuario:  ")
 
-let senha = prompt("Digite a sua senha")
+let senha1 = prompt("Digite a sua senha")
 
 if(username == "admin" && senha == "senha123"){
     console.log("Login bem-vindo!")
