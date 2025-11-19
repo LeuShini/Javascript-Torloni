@@ -1,0 +1,64 @@
+// window.alert("Minha primeira mensagem!")
+
+// window.confirm("Hoje é Sexta?")
+
+//comentario em linha
+
+/* Comentando Varias Linhas
+fsdiuhsdf
+akuyftaofs
+*/
+
+//let nome = window.prompt("Qual é o seu nome?")
+
+//window.alert("Bem Vindo! " + nome)
+
+// console.log("Apresenta mensagem na tela")
+// let numero01 = parseInt(prompt ("Digite o primeiro número? "))
+
+// let numero02 = parseInt(prompt ("Digite o segundo número:  ")) 
+
+// let soma = numero01 + numero02
+
+// console.log(soma)
+
+// let num01 = parseFloat(prompt("Digite algum número:  "))
+
+// let num02 = parseFloat(prompt("Digite o algum número:  "))
+
+// let resultado = num01 + num02
+
+// console.log(resultado)
+
+// let idade = parseInt(prompt("Qual é sua idade?"))
+
+// if (idade >= 18) {
+//     console.log("Voce é maior de idade")
+// }
+// else{
+//     console.log("Voce é menor de idade")
+// }
+
+let estacoes = prompt("Digite uma estação do ano")
+
+switch (estacoes) {
+    case "Verão":
+        console.log("Muito Calor e Praia")
+        break;
+
+    case "Outono":
+        console.log("As folhas caem no final")
+        break;
+
+    case "Inverno":
+        console.log("Muito Frio")
+        break;
+
+    case "Primavera":
+        console.log("Eu vejo flores em voce...")
+        break;
+
+    default:
+        console.log("Não existe essa estação!!!")
+        break;
+}
