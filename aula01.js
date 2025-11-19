@@ -9,35 +9,35 @@ fsdiuhsdf
 akuyftaofs
 */
 
-// /let nome = window.prompt("Qual é o seu nome?")
+ let nome = window.prompt("Qual é o seu nome?")
 
-// window.alert("Bem Vindo! " + nome)
+ window.alert("Bem Vindo! " + nome)
 
-// console.log("Apresenta mensagem na tela")
-//  let numero01 = parseInt(prompt ("Digite o primeiro número? "))
+ console.log("Apresenta mensagem na tela")
+  let numero01 = parseInt(prompt ("Digite o primeiro número? "))
 
-// let numero02 = parseInt(prompt ("Digite o segundo número:  ")) 
+ let numero02 = parseInt(prompt ("Digite o segundo número:  ")) 
 
-//  let soma = numero01 + numero02
+  let soma = numero01 + numero02
 
-// console.log(soma)
+ console.log(soma)
 
-// let num01 = parseFloat(prompt("Digite algum número:  "))
+ let num01 = parseFloat(prompt("Digite algum número:  "))
 
-// let num02 = parseFloat(prompt("Digite o algum número:  "))
+ let num02 = parseFloat(prompt("Digite o algum número:  "))
 
-// let resultado = num01 + num02
+ let resultado = num01 + num02
 
-// console.log(resultado)
+ console.log(resultado)
 
-//  let idade = parseInt(prompt("Qual é sua idade?"))
+  let idade = parseInt(prompt("Qual é sua idade?"))
 
-//  if (idade >= 18) {
-//      console.log("Voce é maior de idade")
-//  }
-// else{
-//      console.log("Voce é menor de idade")/
-// }
+  if (idade >= 18) {
+      console.log("Voce é maior de idade")
+  }
+ else{
+      console.log("Voce é menor de idade")/
+ }
 
 let estacoes = prompt("Digite uma estação do ano")
 
