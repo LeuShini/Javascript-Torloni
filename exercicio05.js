@@ -24,24 +24,6 @@ if (primeiroNumero > segundoNumero && segundoNumero > terceiroNumero) {
     alert("Os números estão em ordem decrescente");
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  else ( primeiroNumero <= segundoNumero && segundoNumero >= terceiroNumero)
  alert ("Os numeros estao aleatorios")
 
