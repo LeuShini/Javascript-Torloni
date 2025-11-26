@@ -1,12 +1,49 @@
-let n1 = Number (prompt("Digite o primeiro número da sequência "));
-let n2 = Number (prompt("Digite o segundo número da sequência "));
-let n3 = Number (prompt("Digite o terceiro número da sequência "));
+let primeiroNumero = parseInt (prompt("Digite o primeiro número "));
+let segundoNumero = parseInt (prompt("Digite o segundo número "));
+let terceiroNumero = parseInt (prompt("Digite o terceiro número"));
 
-if (n1 < n2 && n2 < n3) {
+
+
+
+
+
+
+
+// -------- if pra conferir algo-----------
+
+
+
+
+
+if (primeiroNumero < segundoNumero && segundoNumero < terceiroNumero ) {
     alert("Os números estão em ordem crescente");
-} else{
-    alert(" Os números não estão em ordem crescente");
+} 
+
+
+if (primeiroNumero > segundoNumero && segundoNumero > terceiroNumero) {
+    alert("Os números estão em ordem decrescente");
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ else ( primeiroNumero <= segundoNumero && segundoNumero >= terceiroNumero)
+ alert ("Os numeros estao aleatorios")
 
 
 

@@ -17,7 +17,7 @@ if (media >= 7) {
     alert ("Aprovado")
 } else if (media <= 7 && media >= 5) {
 alert ("Recuperação")
-} if(media <5) {
+} if(media <5) {   
     alert ("Reprovado")
 }
 
