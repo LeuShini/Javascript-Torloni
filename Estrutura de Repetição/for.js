@@ -17,6 +17,6 @@
 //utilize o for para exibir do um ao 10
 
 for(let i = 1; i <=10; i = i + 1){
-console.log("A volta que o for está é: " + i);
+console.log("A volfota que o for está é: " + i);
 }
 
