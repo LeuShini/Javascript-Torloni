@@ -25,4 +25,3 @@ console.log ("A lista de frutas tem " + tarefas.length + " itens.");
 for(let i = 0; i < tarefas.length; i++){
 console.log(tarefas[i])
 }
-
